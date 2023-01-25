@@ -18,7 +18,7 @@ public class JenkinsDemoApplication {
 	}
 
 	public static void main(String[] args) {
-		LOGGER.info("JenkinsDemoApplication executing...");
+		LOGGER.info("JenkinsDemoApplication executing now...");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
 	}
 
